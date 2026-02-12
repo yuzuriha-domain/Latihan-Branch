@@ -4,4 +4,4 @@ ini adalah perubahan dari akun kolaborator
 ini komit 1 squash changes  
 ini komit 2 squash changes  
 ini komit 3 squash changes  
-contoh buat code reviews
+ini latihan code reviews rill  
