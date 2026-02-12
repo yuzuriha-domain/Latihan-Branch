@@ -1,2 +1,2 @@
 # Latihan-Branch
-Latihan menggunakan branch
+Ini adalah branch baru untuk latihan branch
